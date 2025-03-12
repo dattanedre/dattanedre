@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Datta Nedre</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Frontend Developer and Software Tester from India</h3>
 
-- 🌱 I’m currently learning **HTMl, CSS, Javascript, Bootstrap, MongoDBB, Manual Testing, Software Testing**
+- 🌱 I’m currently learning **Java, Bootstrap, MongoDBB, SQL, API, Manual Testing, Software Testing**
 
-- 💬 Ask me about **HTML, CSS, JS, Java**
+- 💬 Ask me about **HTML, CSS, JS, Java, Selemium, Manual Testing, Agile**
 
 - 📫 How to reach me **dattatraynedre@gmail.com**
 
