@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm dattanedre</h1>
+<h1 align="center">Hi 👋, I'm Datta Nedre</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **HTMl, CSS, Javascript, Bootstrap, MongoDBB**
+- 🌱 I’m currently learning **HTMl, CSS, Javascript, Bootstrap, MongoDBB, Manual Testing, Software Testing**
 
-- 💬 Ask me about **HTML, CSS, JS**
+- 💬 Ask me about **HTML, CSS, JS, Java**
 
-- 📫 How to reach me **dattatray@gmail.com**
+- 📫 How to reach me **dattatraynedre@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
