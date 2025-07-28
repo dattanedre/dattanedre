@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Datta Nedre</h1>
-<h3 align="center">A passionate Frontend Developer and Software Tester from India</h3>
+<h3 align="center">A passionate Embedded Software Engineer from India</h3>
 
-- 🌱 I’m currently learning **Java, Bootstrap, MongoDB, SQL, API, Manual Testing, Software Testing**
+- 🌱 I’m currently learning ** C, Embedded C, Microcontrollers, RTOS, Processors, Communication protocols**
 
-- 💬 Ask me about **HTML, CSS, JS, Java, Selenium, Manual Testing, Agile methodology**
+- 💬 Ask me about **C, C++, Microcontrollers, Protocols, RTOS, Unit Testing**
 
 - 📫 How to reach me **dattatraynedre@gmail.com**
 
