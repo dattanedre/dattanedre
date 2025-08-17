@@ -3,8 +3,8 @@
 
 - 🌱 I’m currently learning ** C, Embedded C, Microcontrollers, RTOS, Processors, Communication protocols**
 
-- 💬 Ask me about **C, C++, Microcontrollers, Protocols, RTOS, Unit Testing**
-
+- 💬 Ask me about **C, C++, Microcontrollers(PIC18F, LPC2148, ARM), Protocols(I2C, CAN), RTOS, Unit Testing**
+ 
 - 📫 How to reach me **dattatraynedre@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
